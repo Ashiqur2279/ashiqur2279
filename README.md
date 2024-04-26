@@ -63,14 +63,14 @@ Currently, I'm diving deep into the world of Next.js, exploring its capabilities
 
 Connect with me on these platforms:
 
-[![GitHub](https://img.shields.io/badge/GitHub-ashiqur2279-blue?style=flat-square&logo=github)](https://github.com/ashiqur2279)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashiqur2279-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ashiqur2279/)
-[![Twitter](https://img.shields.io/badge/Twitter-ashiqur2279-blue?style=flat-square&logo=twitter)](https://twitter.com/ashiqur2279)
-[![Facebook](https://img.shields.io/badge/Facebook-ashiqur2279-blue?style=flat-square&logo=facebook)](https://www.facebook.com/ashiqur2279)
-[![Instagram](https://img.shields.io/badge/Instagram-ashiqur2279-blue?style=flat-square&logo=instagram)](https://www.instagram.com/ashiqur2279/)
-[![YouTube](https://img.shields.io/badge/YouTube-ashiqur2279-red?style=flat-square&logo=youtube)](https://www.youtube.com/@Ashiqur2279)
-[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-Ashiqur2279-blue?style=flat-square&logo=freecodecamp)](https://www.freecodecamp.org/Ashiqur2279)
-[![LeetCode](https://img.shields.io/badge/LeetCode-ashiqur2279-orange?style=flat-square&logo=leetcode)](https://leetcode.com/ashiqur2279/)
+[![GitHub](https://img.shields.io/badge/GitHub-%20Ashiqur%20Rahman-blue?style=flat-square&logo=github)](https://github.com/ashiqur2279)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20Ashiqur%20Rahman-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ashiqur2279/)
+[![Twitter](https://img.shields.io/badge/Twitter-%20Ashiqur%20Rahman-blue?style=flat-square&logo=twitter)](https://twitter.com/ashiqur2279)
+[![Facebook](https://img.shields.io/badge/Facebook-%20Ashiqur%20Rahman-blue?style=flat-square&logo=facebook)](https://www.facebook.com/ashiqur2279)
+[![Instagram](https://img.shields.io/badge/Instagram-%20Ashiqur%20Rahman-blue?style=flat-square&logo=instagram)](https://www.instagram.com/ashiqur2279/)
+[![YouTube](https://img.shields.io/badge/YouTube-%20Ashiqur%20Rahman-red?style=flat-square&logo=youtube)](https://www.youtube.com/@Ashiqur2279)
+[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-%20Ashiqur%20Rahman-blue?style=flat-square&logo=freecodecamp)](https://www.freecodecamp.org/Ashiqur2279)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%20Ashiqur%20Rahman-orange?style=flat-square&logo=leetcode)](https://leetcode.com/ashiqur2279/)
 
 
 
