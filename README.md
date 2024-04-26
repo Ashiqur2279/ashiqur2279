@@ -78,13 +78,14 @@ Connect with me on these platforms:
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashiqur2279&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashiqur2279&show_icons=true&theme=tokyonight)
 
 ---
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqur2279)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqur2279&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -92,12 +93,12 @@ Connect with me on these platforms:
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashiqur2279)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashiqur2279&show_icons=true&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/ashiqur2279/contributions?format=svg&private=false)  
 
-![GitHub metrics](https://metrics.lecoq.io/ashiqur2279)  
+![GitHub metrics](https://metrics.lecoq.io/ashiqur2279&show_icons=true&theme=tokyonight)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ashiqur2279)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=ashiqur2279&show_icons=true&theme=tokyonight)  
 
 
