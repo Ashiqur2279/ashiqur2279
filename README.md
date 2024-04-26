@@ -68,7 +68,7 @@ Connect with me on these platforms:
 [![Twitter](https://img.shields.io/badge/Twitter-ashiqur2279-blue?style=flat-square&logo=twitter)](https://twitter.com/ashiqur2279)
 [![Facebook](https://img.shields.io/badge/Facebook-ashiqur2279-blue?style=flat-square&logo=facebook)](https://www.facebook.com/ashiqur2279)
 [![Instagram](https://img.shields.io/badge/Instagram-ashiqur2279-blue?style=flat-square&logo=instagram)](https://www.instagram.com/ashiqur2279/)
-[![YouTube](https://img.shields.io/badge/YouTube-ashiqur2279-red?style=flat-square&logo=youtube)](https://www.youtube.com/channel/ashiqur2279)
+[![YouTube](https://img.shields.io/badge/YouTube-ashiqur2279-red?style=flat-square&logo=youtube)](https://www.youtube.com/channel/@ashiqur2279)
 [![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-Ashiqur2279-blue?style=flat-square&logo=freecodecamp)](https://www.freecodecamp.org/Ashiqur2279)
 [![LeetCode](https://img.shields.io/badge/LeetCode-ashiqur2279-orange?style=flat-square&logo=leetcode)](https://leetcode.com/ashiqur2279/)
 
