@@ -28,7 +28,7 @@ Currently, I'm diving deep into the world of Next.js, exploring its capabilities
 
 ## Get in Touch
 
-Feel free to reach out to me via email for any inquiries or collaborations. You can email me using Gmail [![Gmail](https://img.shields.io/badge/Gmail%20-%20Ashiqur%20Rahman-blue?style=flat-square&logo=gmail)](mailto:ashiqurrahman2279@gmail.com)
+📫 For any inquiries or collaborations, drop me a message at [![Gmail](https://img.shields.io/badge/Gmail%20-%20Ashiqur%20Rahman-blue?style=flat-square&logo=gmail)](mailto:ashiqurrahman2279@gmail.com)
 
 
 
@@ -37,13 +37,23 @@ Feel free to reach out to me via email for any inquiries or collaborations. You 
 
 ## Skills
 
-- HTML5
-- CSS3
+- Front-End Skills: HTML5, CSS3
+- Tailwind CSS & Bootstrap Framework
 - JavaScript
 - React.js
 - Next.js
-- Tailwind CSS
-- Bootstrap
+- Responsive Webdesign
+- Version Control Systems: Git, Github
+- Team Collaboration
+- Active Listening
+- Multitasking Abilities
+- Time Management
+- Problem-Solving Skills
+- Excellent Communication
+- Remote Support
+- Basic Networking
+- Computer Hardware & Software Knowledge
+
 
 
 ---
