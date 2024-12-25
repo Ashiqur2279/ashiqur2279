@@ -1,4 +1,4 @@
-![Passionate Frontend Developer - Let's Create Something Extraordinary!](https://media.licdn.com/dms/image/D5616AQGRQ-0SH5_A-Q/profile-displaybackgroundimage-shrink_350_1400/0/1707310764519?e=1719446400&v=beta&t=200Z1nW9WOmF9MLHzMFWcrsII2t84_Psh3C-fu_Jzvk)
+![Passionate Frontend Developer - Let's Create Something Extraordinary!](https://media.licdn.com/dms/image/v2/D5616AQGRQ-0SH5_A-Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1707310764519?e=1740614400&v=beta&t=7kybnhVsUR85vJXvGPxeoJzuHlG65z36yULX268WEEg)
 
 
 ## Let's Create Something Extraordinary!
